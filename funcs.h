@@ -1,5 +1,4 @@
-// заголовочный файл funcs.h
-
+//Hi!
 #define __FUNCS_H__
 
 double MySum(double, double); 
